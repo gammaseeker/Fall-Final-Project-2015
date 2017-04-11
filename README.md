@@ -1,4 +1,4 @@
-# Fall-Final-Project-2015
+# Green Planet
 Fall final project web development 2015
 This is my website for the Fall Semester final project of my web development class in 2015.
 
